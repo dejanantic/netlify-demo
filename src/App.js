@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Successful deployment to Netlify!
-          <span className="emoji" role="img" aria-label="high five">
-            ✋
+          Viki je carka!
+          <span className="emoji" role="img" aria-label="couple in love">
+            💑
           </span>
         </h1>
       </header>
